@@ -1,0 +1,82 @@
+.card-title img {
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+}
+
+.button-set {
+    margin-left: 800px;
+    margin-top: 30px;
+}
+
+
+.profile {
+    margin-right: 100px;
+}
+
+.jon {
+    margin: 4;
+    position: absolute;
+}
+
+.card-tex {
+    font-size: x-large;
+    color: black;
+}
+
+.nav-item {
+    align-items: center;
+    margin-left: 64px;
+}
+
+.btn-cls {
+    margin-left: 500px;
+}
+
+.navbar-text {
+    font-size: x-large;
+    color: black;
+    margin-left: 18px;
+}
+
+
+.navigation {
+    border: 1px solid slategray;
+}
+
+.home {
+    display: flex;
+}
+
+.home2 {
+    color: black;
+    font-size: large;
+}
+
+.navbar-brand {
+    margin-left: 18px;
+    margin-right: 500px;
+}
+
+.red {
+    color: red;
+}
+
+.bg-light {
+    background-color: white;
+    border: 1px solid slategrey;
+}
+
+/* first  
+ */
+
+.pics {
+    width: 50px;
+    height: 50px;
+    margin-right: 40px;
+    margin-left: 460px;
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
